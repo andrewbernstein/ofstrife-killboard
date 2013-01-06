@@ -1,0 +1,16 @@
+/*! \mainpage Eve-Dev Killboard
+ * 
+ * \section intro_sec Introduction
+ * 
+ * This is the EVE Development Network Killboard (EDK)
+
+ * Check out the EVE-Development Network for support, 
+ * bugfixes and new versions at http://www.eve-id.net
+
+ * Requirements:
+
+ * - Webserver (apache)
+ * - PHP 5.0.0+
+ * - Mysql 4.1 +
+ * - GD 2 or higher
+ */
